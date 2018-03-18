@@ -1,6 +1,6 @@
 {
   "name": "egg-yoursql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MySQL plugin for egg",
   "eggPlugin": {
     "name": "mysql"
@@ -13,7 +13,7 @@
     "database"
   ],
   "dependencies": {
-    "my-rds": "^1.0.0"
+    "my-rds": "^1.0.1"
   },
   "devDependencies": {
     "autod": "^2.8.0",
