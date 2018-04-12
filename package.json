@@ -13,7 +13,7 @@
     "database"
   ],
   "dependencies": {
-    "my-rds": "^1.0.3"
+    "my-rds": "^1.0.4"
   },
   "devDependencies": {
     "autod": "^2.8.0",
